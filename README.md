@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **RaqibHasanHridoy/RaqibHasanHridoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://app.daily.dev/RakibHridoy"><img src="https://api.daily.dev/devcards/b53d5acb1bcc4a868b2c72b78f4b4829.png?r=fbm" width="400" alt="Rakib Hasan Hridoy's Dev Card"/></a>
