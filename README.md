@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on 10Weys Web as a Jr. Technical Content Writer. I also work for IT Training BD as Documentation Specialist in Software Testing.
+🔭 I’m currently working on 10Ways Web as a Jr. Technical Content Writer. I also work for IT Training BD as Documentation Specialist in Software Testing.
 
 
 📫 How to reach me: 
