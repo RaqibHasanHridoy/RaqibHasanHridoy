@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on 10Ways Web as a Jr. Technical Content Writer. I also work for IT Training BD as Documentation Specialist in Software Testing.
+🔭 I’m currently working on Bildnw as a Jr. Software QA Engineer. I also work for IT Training BD as Documentation Specialist in Software Testing. From the passion of documentation and technical writing I also worked for 10Ways Web as a Jr. Technical Content Writer.
+
+🌱 I’m currently learning The era of Software Quality and Assurance 
 
 
 📫 How to reach me: 
