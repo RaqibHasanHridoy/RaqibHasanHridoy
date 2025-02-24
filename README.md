@@ -15,9 +15,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on Buildnow LLC as a Jr. Software QA Engineer. I also work for IT Training BD as a Documentation Specialist in Software Testing. From the passion of documentation and technical writing I also worked for 10Ways Web as a Jr. Technical Content Writer.
+🔭 I’m a Software QA Engineer and Certified Scrum Product Owner (CSPO) with over 3 years of experience in technical documentation, software testing, product development, and quality assurance. 
 
-🌱 I’m currently learning The era of Software Quality and Assurance 
+Passionate about building scalable products, I specialize in manual and automated testing, Agile methodologies, and user-centric product improvements.
+
+With hands-on experience in startups and cross-functional teams across Asia, America and Europe, I bridge the gap between quality assurance and product strategy, ensuring seamless digital experiences. My expertise includes test automation, bug tracking, backend system testing, and optimizing software workflows.
+
+Skills:
+Performance monitoring: Uptime Kuma
+CRM: ZOHO
+Documentation: Notion 
+Bug tracking: Linear, Sentry
+Log monitoring: Dozzle, Google Cloud Platform (GCP)
+Automation Framework: Cypress, Selenium
+Tools: Postman, Tweak (Mock API), VScode, Linear, 
+Workflow automation: Zapier
+Language: Javascript, Java
+Containerization: Docker
+Performance/Load testing: Jmeter
+CI/CD: Gitlab CI/CD
+Version control: Git, Gitlab, GitHub
+Database testing: SQL, Django Admin, Metabase
+Data analytics: Google Analytics, Microsoft Clarity, Hotjar
+Debugging: Chrome DevTool, JAM
+Visualization/Flowchart: Miro, Figjam
+
+🌱 I’m currently learning The era of Software Quality Assurance and Product Development 
 
 
 📫 How to reach me: 
