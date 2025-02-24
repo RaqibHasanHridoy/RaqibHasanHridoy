@@ -31,7 +31,6 @@ With hands-on experience in startups and cross-functional teams across Asia, Ame
 - 🛠 **Testing & Development Tools:** Postman, Tweak (Mock API), VS Code, Linear  
 - ⚡ **Workflow Automation:** Zapier  
 - 💻 **Programming Languages:** JavaScript, Java  
-- 📦 **Containerization:** Docker  
 - 📊 **Performance/Load Testing:** JMeter  
 - 🚀 **CI/CD:** GitLab CI/CD  
 - 🔗 **Version Control:** Git, GitLab, GitHub  
