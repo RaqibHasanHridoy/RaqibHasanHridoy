@@ -21,24 +21,25 @@ Passionate about building scalable products, I specialize in manual and automate
 
 With hands-on experience in startups and cross-functional teams across Asia, America and Europe, I bridge the gap between quality assurance and product strategy, ensuring seamless digital experiences. My expertise includes test automation, bug tracking, backend system testing, and optimizing software workflows.
 
-Skills:
-Performance monitoring: Uptime Kuma
-CRM: ZOHO
-Documentation: Notion 
-Bug tracking: Linear, Sentry
-Log monitoring: Dozzle, Google Cloud Platform (GCP)
-Automation Framework: Cypress, Selenium
-Tools: Postman, Tweak (Mock API), VScode, Linear, 
-Workflow automation: Zapier
-Language: Javascript, Java
-Containerization: Docker
-Performance/Load testing: Jmeter
-CI/CD: Gitlab CI/CD
-Version control: Git, Gitlab, GitHub
-Database testing: SQL, Django Admin, Metabase
-Data analytics: Google Analytics, Microsoft Clarity, Hotjar
-Debugging: Chrome DevTool, JAM
-Visualization/Flowchart: Miro, Figjam
+🔍 Performance Monitoring: Uptime Kuma
+📇 CRM: ZOHO
+📄 Documentation: Notion
+🐞 Bug Tracking: Linear, Sentry
+📜 Log Monitoring: Dozzle, Google Cloud Platform (GCP)
+🤖 Automation Framework: Cypress, Selenium
+🛠 Tools: Postman, Tweak (Mock API), VS Code, Linear
+⚡ Workflow Automation: Zapier
+💻 Languages: JavaScript, Java
+📦 Containerization: Docker
+📊 Performance/Load Testing: JMeter
+🚀 CI/CD: GitLab CI/CD
+🔗 Version Control: Git, GitLab, GitHub
+🗄 Database Testing: SQL, Django Admin, Metabase
+📈 Data Analytics: Google Analytics, Microsoft Clarity, Hotjar
+🕵️‍♂️ Debugging: Chrome DevTools, JAM
+🎨 Visualization/Flowchart: Miro, FigJam
+
+I keep my workflow optimized with automation tools, track performance & logs efficiently, and ensure seamless testing across different environments. 🚀
 
 🌱 I’m currently learning The era of Software Quality Assurance and Product Development 
 
