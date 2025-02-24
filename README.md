@@ -21,23 +21,24 @@ Passionate about building scalable products, I specialize in manual and automate
 
 With hands-on experience in startups and cross-functional teams across Asia, America and Europe, I bridge the gap between quality assurance and product strategy, ensuring seamless digital experiences. My expertise includes test automation, bug tracking, backend system testing, and optimizing software workflows.
 
-🔍 Performance Monitoring: Uptime Kuma
-📇 CRM: ZOHO
-📄 Documentation: Notion
-🐞 Bug Tracking: Linear, Sentry
-📜 Log Monitoring: Dozzle, Google Cloud Platform (GCP)
-🤖 Automation Framework: Cypress, Selenium
-🛠 Tools: Postman, Tweak (Mock API), VS Code, Linear
-⚡ Workflow Automation: Zapier
-💻 Languages: JavaScript, Java
-📦 Containerization: Docker
-📊 Performance/Load Testing: JMeter
-🚀 CI/CD: GitLab CI/CD
-🔗 Version Control: Git, GitLab, GitHub
-🗄 Database Testing: SQL, Django Admin, Metabase
-📈 Data Analytics: Google Analytics, Microsoft Clarity, Hotjar
-🕵️‍♂️ Debugging: Chrome DevTools, JAM
-🎨 Visualization/Flowchart: Miro, FigJam
+### 🛠 Tech & Tools I Work With:
+- 🔍 **Performance Monitoring:** Uptime Kuma  
+- 📇 **CRM:** ZOHO  
+- 📄 **Documentation:** Notion  
+- 🐞 **Bug Tracking:** Linear, Sentry  
+- 📜 **Log Monitoring:** Dozzle, Google Cloud Platform (GCP)  
+- 🤖 **Automation Frameworks:** Cypress, Selenium  
+- 🛠 **Testing & Development Tools:** Postman, Tweak (Mock API), VS Code, Linear  
+- ⚡ **Workflow Automation:** Zapier  
+- 💻 **Programming Languages:** JavaScript, Java  
+- 📦 **Containerization:** Docker  
+- 📊 **Performance/Load Testing:** JMeter  
+- 🚀 **CI/CD:** GitLab CI/CD  
+- 🔗 **Version Control:** Git, GitLab, GitHub  
+- 🗄 **Database Testing:** SQL, Django Admin, Metabase  
+- 📈 **Data Analytics:** Google Analytics, Microsoft Clarity, Hotjar  
+- 🕵️‍♂️ **Debugging:** Chrome DevTools, JAM  
+- 🎨 **Visualization/Flowchart:** Miro, FigJam  
 
 I keep my workflow optimized with automation tools, track performance & logs efficiently, and ensure seamless testing across different environments. 🚀
 
