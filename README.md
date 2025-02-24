@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Passionate about building scalable products, I specialize in manual and automated testing, Agile methodologies, and user-centric product improvements.
 
-With hands-on experience in startups and cross-functional teams across Asia, America and Europe, I bridge the gap between quality assurance and product strategy, ensuring seamless digital experiences. My expertise includes test automation, bug tracking, backend system testing, and optimizing software workflows.
+With hands-on experience in dynamic startups and cross-functional teams across 🌏 Asia, 🌍 Europe,🌏 Africa, and 🌎 America, I bring a strategic approach to quality assurance, ensuring flawless digital experiences.
 
 ### 🛠 Tech & Tools I Work With:
 - 🔍 **Performance Monitoring:** Uptime Kuma  
@@ -32,7 +32,7 @@ With hands-on experience in startups and cross-functional teams across Asia, Ame
 - ⚡ **Workflow Automation:** Zapier  
 - 💻 **Programming Languages:** JavaScript, Java  
 - 📊 **Performance/Load Testing:** JMeter  
-- 🚀 **CI/CD:** GitLab CI/CD  
+- 🚀 **CI/CD:** GitLab CI 
 - 🔗 **Version Control:** Git, GitLab, GitHub  
 - 🗄 **Database Testing:** SQL, Django Admin, Metabase  
 - 📈 **Data Analytics:** Google Analytics, Microsoft Clarity, Hotjar  
